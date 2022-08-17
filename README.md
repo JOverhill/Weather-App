@@ -6,4 +6,4 @@ Used multiple libraries such as styled-components, luxon, react-scroll.
 
 Learned a lot about styling using styled-components, reading other people's code and API calls.
 
-
+To use this app, get yourself an personal API key from Openweathermap and place it inside src/services/weatherService.js as API_KEY
